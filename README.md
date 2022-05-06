@@ -30,9 +30,7 @@ Update the application code in
 ./html/
 ```
 
-Then add/commit/push to gitlab
-
-* Text added to check if build is triggered
+Then add/commit/push to gitla
 
 ```
 git status # to see your changes
