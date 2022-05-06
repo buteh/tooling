@@ -32,6 +32,8 @@ Update the application code in
 
 Then add/commit/push to gitlab
 
+* Text added to check if build is triggered
+
 ```
 git status # to see your changes
 ```
